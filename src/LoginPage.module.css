@@ -1,0 +1,18 @@
+button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: rgb(22, 32, 20);
+  color: white;
+  font-weight: bold;
+}
+.login {
+  width: 600px;
+  height: 400px;
+  background-color: goldenrod;
+  margin: 100px auto;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

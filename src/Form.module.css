@@ -1,0 +1,30 @@
+.form {
+  height: 300px;
+  width: 600px;
+  background: linear-gradient(red, blue);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin: 100px auto;
+  border-radius: 20px;
+  box-shadow: 1px 20px 30px;
+}
+div label {
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 10px;
+}
+input {
+  background: linear-gradient(rgb(114, 87, 87), rgb(194, 194, 241));
+  color: black;
+}
+.btn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: rgb(22, 32, 20);
+  color: white;
+  font-weight: bold;
+}
